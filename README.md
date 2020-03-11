@@ -1,12 +1,10 @@
 # ISTRUZIONI
 
-Clona questo repository e aggiungimi come editor.
+Usa questo Templat per creare il tuo repository e aggiungimi come editor.
 Quando fai un nuovo esercizio:
-- crea una nuova cartella in "esercizi", con opportune sottocartelle per immagini e css (ne parleremo in seguito).
-- mantieni aggiornato l'indice degli esercizi (un link e un commento per ogni esercizio).
+- in ciascun file html che carichi aggiungi la segunte tag all'interno di head:
+  <meta http-equiv="cache-control" content="no-cache"> 
+- carica i file del nuovo esercizio in una nuova cartella all'interno di "esercizi", caricando le immagini in una sottocartella.
+- mantieni aggiornato l'indice degli esercizi, aggiungendo un link e un commento per ogni esercizio che carichi.
 
 Nella scheda Settings (vedi menu in alto), sezione GitHub Pages, c'è l'indirizzo da cui puoi visualizzare le pagine che carichi.
-
-IMPORTANTE! 
-In ogni file html che caricate bisogna aggiungere la segunte tag all'interno di head:
-<meta http-equiv="cache-control" content="no-cache"> 
