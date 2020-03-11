@@ -1,6 +1,6 @@
 # ISTRUZIONI
 
-Usa questo Templat per creare il tuo repository e aggiungimi come editor.
+Usa questo Template per creare il tuo repository e aggiungimi come collaboratore.
 Quando fai un nuovo esercizio:
 - in ciascun file html che carichi aggiungi la segunte tag all'interno di head:
   <meta http-equiv="cache-control" content="no-cache"> 
